@@ -40,6 +40,7 @@ export function addToCart(productId) {
       deliveryOptionId: '1'
     });
   }
+
   saveToStorage();
 }
 
